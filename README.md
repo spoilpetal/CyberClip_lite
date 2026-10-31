@@ -608,7 +608,7 @@ Please describe the changes and include reproduction steps for bug fixes.
 
 # Roadmap
 
-CyberClip is actively evolving.
+CyberClip is actively evolving. (It's up on the contributors)
 
 Potential future improvements include:
 
@@ -621,7 +621,7 @@ Potential future improvements include:
 - Better installation and packaging.
 - More TUI customization.
 
-These are planned improvements, not promises of current support.
+These are planned improvements, not promises of current support. (Please do by yourself cuz i have other stuffs to builds, i build this cuz i found it's missing)
 
 ---
 
@@ -631,17 +631,16 @@ CyberClip started with a simple idea:
 
 **Clipboard management should be comfortable in the terminal.**
 
-Not everyone wants another desktop application running in the background or another graphical interface to manage.
+Not everyone wants another desktop application running in the background or another graphical interface to manage. (I don't)
 
 CyberClip aims to provide a practical, terminal-first alternative that is fast, straightforward, and open to community contributions.
 
-It shouldn't be a rocket science
+A clipboard don't have to be a rocket science
 ---
 
 # License
 
-Add your chosen open-source license here before publishing.
-
+Take Good Care Of This (But you don't have permitted to take a copy for sell)
 ---
 
 **CyberClip — Your clipboard, your terminal.**
