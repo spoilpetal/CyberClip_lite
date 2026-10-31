@@ -70,6 +70,57 @@ No bulky desktop GUI. No need to leave your terminal.
 CyberClip is written in Rust, with a focus on speed, simplicity, and maintainability.
 
 ---
+### screenshots
+
+
+ <h3>Codes highlighting </h3>
+<p align="center">
+
+   <img src="https://raw.githubusercontent.com/spoilpetal/Picture_Vault/refs/heads/main/CyberClip_pictures/CyberClip_a_code_file_preview.png">
+   </img>
+
+
+
+ A file information overview
+<p align="center">
+
+   <img src="https://raw.githubusercontent.com/spoilpetal/Picture_Vault/refs/heads/main/CyberClip_pictures/CyberClip_a_code_file_overview.png">
+   </img>
+
+
+
+
+
+ A picture preview
+<p align="center">
+
+   <img src="https://raw.githubusercontent.com/spoilpetal/Picture_Vault/refs/heads/main/CyberClip_pictures/CyberClip_a_picture_preview.png" >
+   </img>
+
+
+
+ Archive Preview
+<p align="center">
+
+   <img src="https://raw.githubusercontent.com/spoilpetal/Picture_Vault/refs/heads/main/CyberClip_pictures/CyberClip_a_archive_preview.png" >
+   </img>
+
+
+
+
+ CyberClip clipboard history preview
+
+<p align="center">
+
+   <img src="https://raw.githubusercontent.com/spoilpetal/Picture_Vault/refs/heads/main/CyberClip_pictures/CyberClip_clipboard_ui_history.png" >
+   </img>
+
+ 
+
+
+
+---
+
 
 ## Requirements
 
