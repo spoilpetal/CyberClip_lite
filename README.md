@@ -73,15 +73,15 @@ CyberClip is written in Rust, with a focus on speed, simplicity, and maintainabi
 ### screenshots
 
 
- <h3>Codes highlighting </h3>
+ <h4>Codes highlighting </h4>
 <p align="center">
 
-   <img src="https://raw.githubusercontent.com/spoilpetal/Picture_Vault/refs/heads/main/CyberClip_pictures/CyberClip_a_code_file_preview.png">
+   <img src="https://raw.githubusercontent.com/spoilpetal/Picture_Vault/refs/heads/main/CyberClip_pictures/CyberClip_code_file_preview.png">
    </img>
 
 
 
- A file information overview
+ <h4>A file information overview</h4>
 <p align="center">
 
    <img src="https://raw.githubusercontent.com/spoilpetal/Picture_Vault/refs/heads/main/CyberClip_pictures/CyberClip_a_code_file_overview.png">
@@ -91,7 +91,7 @@ CyberClip is written in Rust, with a focus on speed, simplicity, and maintainabi
 
 
 
- A picture preview
+ <h4>A picture preview</h4>
 <p align="center">
 
    <img src="https://raw.githubusercontent.com/spoilpetal/Picture_Vault/refs/heads/main/CyberClip_pictures/CyberClip_a_picture_preview.png" >
@@ -99,7 +99,7 @@ CyberClip is written in Rust, with a focus on speed, simplicity, and maintainabi
 
 
 
- Archive Preview
+ <h4>Archive Preview</h4>
 <p align="center">
 
    <img src="https://raw.githubusercontent.com/spoilpetal/Picture_Vault/refs/heads/main/CyberClip_pictures/CyberClip_a_archive_preview.png" >
@@ -108,7 +108,7 @@ CyberClip is written in Rust, with a focus on speed, simplicity, and maintainabi
 
 
 
- CyberClip clipboard history preview
+ <h4>CyberClip clipboard history preview</h4>
 
 <p align="center">
 
