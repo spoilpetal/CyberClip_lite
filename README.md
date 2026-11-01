@@ -672,7 +672,7 @@ Potential future improvements include:
 - Better installation and packaging.
 - More TUI customization.
 
-These are planned improvements, not promises of current support. (Please do by yourself cuz i have other stuffs to builds, i build this cuz i found it's missing)
+These are planned improvements, not promises of current support. (Please do by yourself cuz i have other stuffs to builds, i build this cuz i found it's missing also cuz i don't have proper machine to build and test !!!)
 
 ---
 
