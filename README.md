@@ -381,11 +381,18 @@ The `get` command is useful when you want to retrieve specific information from 
 
 ## 4. Paste
 
-Paste clipboard contents into the terminal.
+Refresh clipboard contents (Without delete).
 
 ```bash
 cyberclip paste
 ```
+For Content paste of your clipboard.
+
+```bash
+
+Ctrl + v
+```
+
 
 ## 5. History
 
