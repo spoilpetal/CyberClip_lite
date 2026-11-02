@@ -179,13 +179,13 @@ Package availability and names may vary by distribution.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/spoilpetal/CyberClip.git
+git clone https://github.com/spoilpetal/CyberClip_lite.git
 ```
 
 Enter the project directory:
 
 ```bash
-cd CyberClip
+cd CyberClip_lite
 ```
 
 ### Build the release version
@@ -227,7 +227,7 @@ If you want to contribute or modify CyberClip, use the following workflow.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/spoilpetal/CyberClip.git
+git clone https://github.com/spoilpetal/CyberClip_lite.git
 cd CyberClip
 ```
 
@@ -687,6 +687,12 @@ Not everyone wants another desktop application running in the background or anot
 CyberClip aims to provide a practical, terminal-first alternative that is fast, straightforward, and open to community contributions.
 
 A clipboard don't have to be a rocket science
+---
+
+### Notice !!!
+A full version (more system supports with some new commands) available in <a href="https://github.com/spoilpetal/CyberClip" target="_blank">CyberClip</a>
+
+
 ---
 
 # License
