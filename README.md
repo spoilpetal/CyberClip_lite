@@ -1,4 +1,4 @@
-# CyberClip
+<h1 align="center">CyberClip_lite</h1>
 
 **A terminal-first clipboard manager for Linux, built with Rust.**
 
@@ -228,7 +228,7 @@ If you want to contribute or modify CyberClip, use the following workflow.
 
 ```bash
 git clone https://github.com/spoilpetal/CyberClip_lite.git
-cd CyberClip
+cd CyberClip_lite
 ```
 
 ### 2. Check the project
