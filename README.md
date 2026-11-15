@@ -24,6 +24,7 @@ No bulky desktop GUI. No need to leave your terminal.
 - [Troubleshooting](#troubleshooting)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
+- [Known Limitations](#known-limitations)
 - [Roadmap](#roadmap)
 - [License](#license)
 
@@ -77,10 +78,10 @@ CyberClip is written in Rust, with a focus on speed, simplicity, and maintainabi
 <p align="center">
 
    <img src="https://raw.githubusercontent.com/spoilpetal/Picture_Vault/refs/heads/main/CyberClip_pictures/v0.1.0/old/CyberClip_code_file_preview.png">
-   </img>
+   </img></br>
 
 
-
+- [Learn more](#known-limitations)
  <h4>A file information overview</h4>
 <p align="center">
 
@@ -95,11 +96,12 @@ CyberClip is written in Rust, with a focus on speed, simplicity, and maintainabi
 <p align="center">
 
    <img src="https://raw.githubusercontent.com/spoilpetal/Picture_Vault/refs/heads/main/CyberClip_pictures/v0.1.0/old/CyberClip_a_picture_preview.png" >
-   </img>
+   </img><br>
 
 
-
+- [Learn more](#known-limitations)
  <h4>Archive Preview</h4>
+ 
 <p align="center">
 
    <img src="https://raw.githubusercontent.com/spoilpetal/Picture_Vault/refs/heads/main/CyberClip_pictures/v0.1.0/old/CyberClip_a_archive_preview.png" >
@@ -667,7 +669,7 @@ Please describe the changes and include reproduction steps for bug fixes.
 # Roadmap
 
 CyberClip is actively evolving. (It's up on the contributors)
-
+<s>
 Potential future improvements include:
 
 - Native cross-platform clipboard backends.
@@ -680,8 +682,18 @@ Potential future improvements include:
 - More TUI customization.
 
 These are planned improvements, not promises of current support. (Please do by yourself cuz i have other stuffs to builds, i build this cuz i found it's missing also cuz i don't have proper machine to build and test !!!)
+</s>
+ I moved CyberClip to <a href="https://github.com/spoilpetal/CyberClip" target="_blank">here</a>
 
 ---
+
+
+ 
+# Known Limitations
+- This repo files build and tested in Arch linux wayland (it used shared clipboard for functional) Use <a href="https://github.com/spoilpetal/CyberClip" target="_blank">CyberClip</a> for cross platform api support. (Still beta)!
+- `cpl files` shows every directory size as 4096 bytes
+- Only zip archive is previewble
+- Less functionally than <a href="https://github.com/spoilpetal/CyberClip" target="_blank"><CyberClip</a> 
 
 # Philosophy
 
