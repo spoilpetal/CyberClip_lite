@@ -684,7 +684,7 @@ Potential future improvements include:
 - More TUI customization.
 
 These are planned improvements, not promises of current support. (Please do by yourself cuz i have other stuffs to builds, i build this cuz i found it's missing also cuz i don't have proper machine to build and test !!!)
-</s>
+</s> <br>
  I moved CyberClip to <a href="https://github.com/spoilpetal/CyberClip" target="_blank">here</a>
 
 ---
@@ -695,7 +695,7 @@ These are planned improvements, not promises of current support. (Please do by y
 - This repo files build and tested in Arch linux wayland (it used shared clipboard for functional) Use <a href="https://github.com/spoilpetal/CyberClip" target="_blank">CyberClip</a> for cross platform api support. (Still beta)!
 - `cpl files` shows every directory size as 4096 bytes
 - Only zip archive is previewble
-- Less functionally than <a href="https://github.com/spoilpetal/CyberClip" target="_blank"><CyberClip</a> 
+- Less functionally than [CyberClip](https://github.com/spoilpetal/CyberClip)
 
 # Philosophy
 
